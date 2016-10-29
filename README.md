@@ -18,7 +18,7 @@ If you want to create a package for your State please use the following name for
 US-California.erpkg
 
 #### How to submit a Package
-Create an Issue with the name of your Country, ex. "Greece Package".  
+Create an Issue with the name of your Country, ex. "Greece".  
 Include the list of the stations names your package have and attach the file.  
 The issue will be open for discussion arround your country's stations and requests.  
 
